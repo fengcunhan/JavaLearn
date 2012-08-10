@@ -12,7 +12,7 @@ public class ValuePass {
 public static void main(String[] args) {
 	//首先定义两个基本数据类型对象
 	int a=9;
-	Float  f=10.09f;
+	Float  f=10.09f;//测试一个注释
 	
 	float addValue=add(a,a);
 	
